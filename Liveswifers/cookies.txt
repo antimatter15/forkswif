@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+imagehosting.zoomshare.com	TRUE	/	FALSE	1999999999	dw	0912de9f0fd18e31d4b6728c5dcf7ff0
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	1223617628-34622626-51448373
+.quantserve.com	TRUE	/	FALSE	1999999999	uid	1223617628-34622626-51448373
+userscripts.org	TRUE	/	FALSE	1999999999	_userscripts_session_id	2c83dc7aac28924123df9609ea3fe416
+.imageshack.us	TRUE	/	FALSE	1999999999	nopopunder	1
+www.snapdrive.net	TRUE	/	FALSE	1999999999	PHPSESSID	4hf66h273c4j5pomfneudj3g67
+www.pryjon.com	TRUE	/	FALSE	1999999999	phpbb2mysql_data	a%3A0%3A%7B%7D
+www.pryjon.com	TRUE	/	FALSE	1999999999	phpbb2mysql_sid	7ceb11965f008042e67b8683ad9c712f
+
