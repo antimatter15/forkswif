@@ -1,0 +1,1 @@
+A minimalistic open source desktop flash IDE coded in C# and VB.NET using the SWFMILL compiler and SVGPaint canvas.
